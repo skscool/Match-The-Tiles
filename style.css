@@ -1,0 +1,15 @@
+body{
+    background-color: firebrick;
+}
+#matrix_div{
+    margin-top: 10px;
+    margin-left: 350px;
+}
+#matrix_table{
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td{
+    border: 2px solid floralwhite;
+}
